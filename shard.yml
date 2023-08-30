@@ -1,0 +1,14 @@
+name: lucky_htmx
+version: 0.1.0
+
+authors:
+  - Chris Watson <cawatson1993@gmail.com>
+
+crystal: 1.9.2
+
+license: MIT
+
+dependencies:
+  lucky:
+    github: luckyframework/lucky
+    version: ~> 1.0.0
